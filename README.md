@@ -1,7 +1,7 @@
 # mPrime
 ###### Dependencies : Python 2.7
 ###### By Redemption.Man
-Messing around finding efficient script to search for prime numbers, currently 4 different versions. the table below shows how long in seconds each script took for the number ranges:
+Messing around finding efficient script to search for prime numbers, currently 4 different versions. the table below shows how long in seconds each script took to search each number range for all the prime numbers:
 
 
 |Number Range                 |Version 1 |Verison 2 |version 3 |version 3.5 |Version 4  |
